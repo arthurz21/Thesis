@@ -1,0 +1,50 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  BRAVEHEART: Open-source software for automated
+  electrocardiographic and vectorcardiographic analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hans Fredrich
+    family-names: Stabenau
+    affiliation: Beth Israel Deaconess Medical Center
+    orcid: 'https://orcid.org/0000-0001-6315-7601'
+  - given-names: Jonathan W.
+    family-names: Waks
+    affiliation: Beth Israel Deaconess Medical Center
+    orcid: 'https://orcid.org/0000-0001-5560-5638'
+identifiers:
+  - type: doi
+    value: 10.1016/j.cmpb.2023.107798
+    description: >-
+      Methods manuscript published in Computer Methods and
+      Programs in Biomedicine
+repository-code: 'https://github.com/BIVectors/BRAVEHEART'
+license: GPL-3.0
+version: 1.0.2
+date-released: '2023-09-12'
+preferred-citation:
+  type: article
+  authors:
+    - given-names: Hans Fredrich
+      family-names: Stabenau
+      affiliation: Beth Israel Deaconess Medical Center
+      orcid: 'https://orcid.org/0000-0001-6315-7601'
+    - given-names: Jonathan W.
+      family-names: Waks
+      affiliation: Beth Israel Deaconess Medical Center
+      orcid: 'https://orcid.org/0000-0001-5560-5638'
+  doi: 10.1016/j.cmpb.2023.107798
+  journal: Computer Methods and Programs in Biomedicine
+  title: >-
+    BRAVEHEART: Open-source software for automated electrocardiographic and
+    vectorcardiographic analysis
+  volume: 242
+  month: 12
+  year: 2023
+  pages: 107798
