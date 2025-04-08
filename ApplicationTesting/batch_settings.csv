@@ -1,0 +1,11 @@
+format,DICOM
+output_ext,.csv
+output_note,batch
+parallel_proc,0
+progressbar,0
+save_figures,1
+save_data,0
+save_annotations,1
+vcg_calc_flag,1
+lead_morph_flag,1
+vcg_morph_flag,1

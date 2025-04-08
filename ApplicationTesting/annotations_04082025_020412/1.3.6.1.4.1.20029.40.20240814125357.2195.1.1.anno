@@ -1,0 +1,53 @@
+556,587,634,836
+1548,1583,1615,1922
+2284,2324,2376,2588
+2763,2799,2839,2978
+3276,3301,3343,3587
+3899,3937,3978,4159
+4395,4433,4475,4721
+5246,5283,5319,5550
+5935,5967,6006,6269
+6595,6629,6679,6899
+7251,7288,7332,7550
+8027,8062,8099,8352
+8619,8660,8702,8953
+9350,9379,9414,9611
+maxBPM,150, , 
+pkthresh,95, , 
+lowpass,1, , 
+highpass,1, , 
+wavelet_level_lowpass,1, , 
+wavelet_level_highpass,10, , 
+wavelet_name_lowpass,Sym4, , 
+wavelet_name_highpass,db4, , 
+baseline_correct_flag,1, , 
+transform_matrix_str,Kors, , 
+baseline_flag,zero_baseline, , 
+origin_flag,zero_origin, , 
+autoMF,1, , 
+autoMF_thresh,20, , 
+MF_width,40, , 
+QRwidth,100, , 
+RSwidth,100, , 
+STstart,100, , 
+STend,45, , 
+spike_removal,1, , 
+pacer_spike_width,20, , 
+pacer_mf,4, , 
+pacer_thresh,20, , 
+align_flag,CoV, , 
+cov_mf,40, , 
+cov_thresh,30, , 
+shiftq,-40, , 
+shiftt,60, , 
+Tendstr,Energy, , 
+median_reanno_method,NNet, , 
+outlier_removal,1, , 
+modz_cutoff,4, , 
+pvc_removal,1, , 
+pvcthresh,0.95, , 
+rmse_pvcthresh,0.1, , 
+keep_pvc,0, , 
+blanking_window_q,0, , 
+blanking_window_t,20, , 
+debug,0, , 

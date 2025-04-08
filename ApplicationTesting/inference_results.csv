@@ -1,0 +1,6 @@
+patient_1,prediction,probability,risk_category
+patient_1,1,0.296819,High Risk
+patient_2,1,0.27719754,High Risk
+patient_3,1,0.25118613,High Risk
+patient_4,0,0.1673021,Intermediate Risk
+patient_5,1,0.47119185,High Risk

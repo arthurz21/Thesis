@@ -1,0 +1,47 @@
+419,458,488,863
+1586,1627,1661,2018
+2754,2795,2834,3188
+3988,4029,4061,4430
+5257,5285,5322,5680
+6352,6393,6424,6792
+7606,7647,7675,8049
+8856,8897,8932,9291
+maxBPM,150, , 
+pkthresh,95, , 
+lowpass,1, , 
+highpass,1, , 
+wavelet_level_lowpass,1, , 
+wavelet_level_highpass,10, , 
+wavelet_name_lowpass,Sym4, , 
+wavelet_name_highpass,db4, , 
+baseline_correct_flag,1, , 
+transform_matrix_str,Kors, , 
+baseline_flag,zero_baseline, , 
+origin_flag,zero_origin, , 
+autoMF,1, , 
+autoMF_thresh,20, , 
+MF_width,40, , 
+QRwidth,100, , 
+RSwidth,100, , 
+STstart,100, , 
+STend,45, , 
+spike_removal,1, , 
+pacer_spike_width,20, , 
+pacer_mf,4, , 
+pacer_thresh,20, , 
+align_flag,CoV, , 
+cov_mf,40, , 
+cov_thresh,30, , 
+shiftq,-40, , 
+shiftt,60, , 
+Tendstr,Energy, , 
+median_reanno_method,NNet, , 
+outlier_removal,1, , 
+modz_cutoff,4, , 
+pvc_removal,1, , 
+pvcthresh,0.95, , 
+rmse_pvcthresh,0.1, , 
+keep_pvc,0, , 
+blanking_window_q,0, , 
+blanking_window_t,20, , 
+debug,0, , 

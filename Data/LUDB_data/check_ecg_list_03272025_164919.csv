@@ -1,0 +1,2 @@
+filename,qt_error,qrs_error,tpeakqt_error,tmag_error,HR_error,num_beats_error,num_removed_beats_error,median_sig_corr_error,baseline,missing_lead,hf_noise,lf_noise,probability,NNet_prob_flag,NNet_NaN
+1.dat,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
